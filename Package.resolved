@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/martinp7r/swift-argument-parser",
+      "state" : {
+        "branch" : "testhelper_product",
+        "revision" : "5936daea708194917d65020187febe402e40c954"
+      }
+    }
+  ],
+  "version" : 2
+}
